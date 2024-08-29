@@ -23,7 +23,7 @@ namespace faculdade
         //private MySqlDataAdapter dataAdapter;
 
         ////string de conexao com o endereco do banco
-        //string connectionString = "Server=127.0.0.1;Port=3306;Uid=root;Pwd=rfmysql123;Database=escola;";
+        //string connectionString = "Server=1;Port=;Uid=;Pwd=;Database=escola;";
         public Form1()
         {
             InitializeComponent();
